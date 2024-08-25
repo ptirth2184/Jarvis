@@ -3,7 +3,6 @@ import webbrowser
 import pyttsx3
 import musicLibrary
 import news
-# from openai import OpenAI 
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
